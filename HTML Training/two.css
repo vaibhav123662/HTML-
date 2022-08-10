@@ -1,0 +1,39 @@
+#one
+{
+    border: 2px solid green;
+    margin: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+
+#two
+{
+    border: 2px dashed black;
+    padding: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.pos
+{
+    position: absolute;
+}
+
+.rel
+{
+    position: relative;
+}
+
+
+.sta
+{
+    position: static;
+}
+
+
+.fix
+{
+    position: fixed;
+}
